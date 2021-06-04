@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_arducamfocus/templates *
+recursive-include octoprint_arducamfocus/translations *
+recursive-include octoprint_arducamfocus/static *
